@@ -18,16 +18,7 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
-
 ---
-### 🔒 Ethical Hacking Tools I Explore
-
-- 💻 **OS**: Kali Linux
-- 🌐 **Web Testing**: Burp Suite, OWASP ZAP, Nikto
-- 📡 **Wireless**: Aircrack-ng, Wireshark, Wifite
-- 🔍 **Recon**: Nmap, theHarvester, Recon-ng
-- 🧰 **Exploitation**: Metasploit, SQLMap, BeEF
-- 🔐 **Password Cracking**: John the Ripper, Hashcat, Hydra
 
 - <p align="center"><i><b>All tools are explored for educational and ethical purposes only.</b></i></p>
 
