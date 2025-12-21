@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/richard-linux-07/richard-linux-07/blob/main/6cwH.gif" alt="gif">
+  <img src="https://github.com/quantumweblabs/quantumweblabs/blob/main/6cwH.gif" alt="gif">
 </p>
 <p align="center">
   <b>Wishing you a festive season wrapped in cheer and filled with beautiful memories.</b><br>
@@ -29,8 +29,8 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=richard-linux-07&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=richard-linux-07&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=quantumweblabs&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=quantumweblabs&theme=radical" width="48%" />
 </p>
 
 ---
