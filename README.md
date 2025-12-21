@@ -22,7 +22,7 @@
 
 ---
 
-- <p align="center"><i><b>All tools are explored for educational and ethical purposes only.</b></i></p>
+- <p align="center"><i><b>All tools are explored for educational purposes only.</b></i></p>
 
 ---
 
@@ -37,4 +37,4 @@
 
 ### 📫 Contact Me
 🐙 GitHub: [Mostafizur Rahman](https://github.com/quantumweblabs)
-<p align="center"><i>"Code with clarity, hack with integrity."</i></p>
+<p align="center"><i>"</i>debugging>."</i></p>
